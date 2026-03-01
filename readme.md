@@ -1,7 +1,7 @@
 # Sistema de Gestión de Pedidos
 ## Aplicación Contenerizada con Docker y Flask
 
-### Autor
+### Autor Andrés Arbeláez
 Actividad Sumativa – Unidad 2  
 Módulo: Contenerización de Aplicaciones de Software  
 
