@@ -1,0 +1,16 @@
+docker-flask-orders/
+│
+├── app/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── templates/
+│   │   ├── index.html
+│   │   └── list.html
+│   └── static/
+│
+├── db/
+│   └── init.sql
+│
+├── Dockerfile
+├── docker-compose.yml
+└── .env
